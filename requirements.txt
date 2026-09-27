@@ -1,0 +1,6 @@
+scikit-learn>=1.2
+joblib>=1.2
+streamlit>=1.35
+plotly>=5.18
+tensorflow>=2.15
+pillow>=10.0
